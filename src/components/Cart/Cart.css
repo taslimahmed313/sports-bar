@@ -1,0 +1,11 @@
+.cart {
+  position: sticky;
+  top: 10px;
+  background-color: tomato;
+  height: 100%;
+}
+.cart-style {
+  list-style-type: decimal;
+  text-align: start;
+  padding: 8px;
+}
